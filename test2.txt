@@ -5,3 +5,5 @@ text
 local branch
 
 line 2
+
+local 2
